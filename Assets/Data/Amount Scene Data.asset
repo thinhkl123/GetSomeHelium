@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5767ece81b57ec4a9d7ba64557bf922, type: 3}
   m_Name: Amount Scene Data
   m_EditorClassIdentifier: 
-  AmountOfScene: 00000000060000000500000004000000
+  AmountOfScene: 00000000060000000500000007000000
